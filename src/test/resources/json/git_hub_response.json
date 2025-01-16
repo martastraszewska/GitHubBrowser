@@ -1,0 +1,18 @@
+{
+  "name": "README.md",
+  "path": "README.md",
+  "sha": "2248c5f47f76c0226998ae098962bc892841db9d",
+  "size": 13,
+  "url": "https://api.github.com/repos/martastraszewska/CustomerManagement/contents/README.md?ref=master",
+  "html_url": "https://github.com/martastraszewska/CustomerManagement/blob/master/README.md",
+  "git_url": "https://api.github.com/repos/martastraszewska/CustomerManagement/git/blobs/2248c5f47f76c0226998ae098962bc892841db9d",
+  "download_url": "https://raw.githubusercontent.com/martastraszewska/CustomerManagement/master/README.md",
+  "type": "file",
+  "content": "c2FtcGxlIHRlc3QgCg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/martastraszewska/CustomerManagement/contents/README.md?ref=master",
+    "git": "https://api.github.com/repos/martastraszewska/CustomerManagement/git/blobs/2248c5f47f76c0226998ae098962bc892841db9d",
+    "html": "https://github.com/martastraszewska/CustomerManagement/blob/master/README.md"
+  }
+}
